@@ -21,7 +21,7 @@ public class patterns {
          }
          System.out.println();  //For printing next row
      }
-}
+ }
 }
 
     
